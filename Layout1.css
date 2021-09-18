@@ -1,0 +1,35 @@
+#header{
+    width: 1500px;
+    height:100px;
+    float: center;
+    padding: left 80px; 
+background-color:red;
+}
+
+#content{
+background-color: green;
+width: 125px;
+height:20px;
+
+}
+
+#container{
+
+
+}
+
+#nav{
+    width: 90px;
+height:1200px;
+float:left;
+padding-left: 90px;
+background-color:yellow;
+
+}
+
+#footer{
+
+}
+
+body{
+}

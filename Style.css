@@ -1,0 +1,43 @@
+body{
+
+margin:0 auto;
+padding: 0 auto;
+background-color: black;
+
+}
+
+#container{
+
+    margin: 1em auto;
+    width:650px;
+    background-color: aqua;
+}
+
+#header{
+    background-color: darkkhaki;
+}
+#mainnav{
+    background-color:yellowgreen;
+}
+
+#menu{
+
+    float:right;
+    width: 165px;
+    background-color: darksalmon;
+}
+
+#contents{
+    float:left;
+    width:440px;
+    background-color: cornflowerblue;
+    margin: 0 0 0 20px;
+    display:inline;
+}
+
+#footer{
+
+    clear:both;
+    background-color:azure;
+
+}
